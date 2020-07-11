@@ -1,0 +1,60 @@
+body{
+    background-color: #E5E5E5;
+}
+.container{
+    width: 70%;
+    margin-bottom: 40px;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.white-bg{
+    background-color: white;
+}
+.top-player{
+    border-bottom: 1px solid #D1D1D1;
+
+}
+.padding-apply{
+    padding: 40px 20px;
+}
+.card-deck{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.card{
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+    transition: all .6s ease-in-out;
+}
+.card:hover{
+    background-color: #d0c7f7;
+    transform: scale(1.1);
+}
+.bule-text{
+    color: #562EFF;
+}
+.checked {
+    color: orange;
+}
+.footer-icon-img{
+    width: 20px;
+}
+.footer-icon-bg{
+    border-radius: 15px;
+    background-color: #FFE4E8;
+}
+.card-footer{
+    border: none;
+}
+.footer-card-body{
+    padding: 5px;
+}
+.card-footer{
+    padding: 10px 5px;
+}
